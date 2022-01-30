@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "fb9ac6d1c392ef36a35a6d8f3a851533efe7e071a91108b1e3a29688093c00ff"
+            "sha256": "200ce28ea7039543926bc2afb0f12ec62bbe570c2c11ded19dfaf3624aa7340e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -46,20 +46,6 @@
             "index": "pypi",
             "version": "==4.3.1"
         },
-        "python-crontab": {
-            "hashes": [
-                "sha256:1e35ed7a3cdc3100545b43e196d34754e6551e7f95e4caebbe0e1c0ca41c2f1b"
-            ],
-            "index": "pypi",
-            "version": "==2.6.0"
-        },
-        "python-dateutil": {
-            "hashes": [
-                "sha256:0123cacc1627ae19ddf3c27a5de5bd67ee4586fbdd6440d9748f8abb483d3e86",
-                "sha256:961d03dc3453ebbc59dbdea9e4e11c5651520a876d0f4db161e8674aae935da9"
-            ],
-            "version": "==2.8.2"
-        },
         "requests": {
             "hashes": [
                 "sha256:68d7c56fd5a8999887728ef304a6d12edc7be74f1cfa47714fc8b414525c9a61",
@@ -67,29 +53,6 @@
             ],
             "index": "pypi",
             "version": "==2.27.1"
-        },
-        "schedule": {
-            "hashes": [
-                "sha256:617adce8b4bf38c360b781297d59918fbebfb2878f1671d189f4f4af5d0567a4",
-                "sha256:e6ca13585e62c810e13a08682e0a6a8ad245372e376ba2b8679294f377dfc8e4"
-            ],
-            "index": "pypi",
-            "version": "==1.1.0"
-        },
-        "six": {
-            "hashes": [
-                "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
-                "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
-            ],
-            "version": "==1.16.0"
-        },
-        "telebot": {
-            "hashes": [
-                "sha256:1d692ee3c2f07c5caacb1a82f0b59e40cef84f58be84435be9c8ce667dee94a6",
-                "sha256:717f08f0cbb2b3bbba73e8b36cca466345b751d44e938235eaa24139073f3265"
-            ],
-            "index": "pypi",
-            "version": "==0.0.4"
         },
         "urllib3": {
             "hashes": [
